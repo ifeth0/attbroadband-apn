@@ -29,7 +29,7 @@
 
         <key>PayloadIdentifier</key>
 
-        <string>com.apple.cellular.attbroadband</string>
+        <string>com.apple.cellular.attbroadband1</string>
 
         <key>PayloadType</key>
 
