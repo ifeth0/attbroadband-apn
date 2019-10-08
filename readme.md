@@ -1,3 +1,5 @@
+# IF TESTING THE ATTBROADBAND-TEST.MOBILECONFIG WHICH FIXES THE 4G SWITCHING ISSUE, PLEASE VERIFY YOU CAN SEND AND RECIEVE TEXT MESSAGES. 
+
 This iOS MobileConfig will append the APN settings to allow dual SIM/eSIM function correctly with ATT Hotspot plans.
 
 
