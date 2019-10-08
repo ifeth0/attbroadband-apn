@@ -1,0 +1,44 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+		<key>APNs</key>
+        <array>
+          <dict>
+            <key>Name</key>
+            <string>broadband</string>
+          </dict>
+        </array>
+		<key>AttachAPN</key>
+			<dict>
+			<key>Name</key>
+			<string>Broadband</string></dict>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.cellular.attbroadband1</string>
+        <key>PayloadType</key>
+        <string>com.apple.cellular</string>
+        <key>PayloadUUID</key>
+        <string>ABBCD183-92CD-42BA-91B0-614974B7B445</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+    <key>PayloadIdentifier</key>
+    <string>broadband</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>30086F47-CB6E-45A1-B365-AA304195C8AE</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+
+  </dict>
+
+</plist>
