@@ -10,4 +10,4 @@ STEPS
   5) Verify ATT connectivity by checking your IP/Hostname (ie: http://ipchicken.com)
   6) Go back to settings > cellular > Cell Data & select your other SIM to verify data still works on that line. Once confirmed renable your        Data SIM and renable "Allow Cellular Data Switching"
   
-# NOTE: This has been tested on two devices with the other carrier being Verizon. T-Mobile users don't appear to have an issue with manually setting APNs
+### NOTE: This has been tested on two devices with the other carrier being Verizon. T-Mobile users don't appear to have an issue with manually setting APNs
