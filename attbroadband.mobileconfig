@@ -12,13 +12,13 @@
         <array>
           <dict>
             <key>Name</key>
-            <string>broadband</string>
+            <string>firstnet-broadband</string>
           </dict>
         </array>
 		<key>AttachAPN</key>
 			<dict>
 			<key>Name</key>
-			<string>Broadband</string></dict>
+			<string>firstnet-Broadband</string></dict>
         <key>PayloadIdentifier</key>
         <string>com.apple.cellular.attbroadband1</string>
         <key>PayloadType</key>
